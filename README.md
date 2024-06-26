@@ -1,3 +1,3 @@
 # matplotlib-challenge
 
-Used Xpert to help with .duplicated() function
+Used Xpert to explain .duplicated() and the aggregation method
